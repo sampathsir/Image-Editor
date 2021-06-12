@@ -22,4 +22,3 @@ For more click help....</b>"""
 ⭕️<b>Library :</b> <a href='https://docs.pyrogram.org/'>Pyrogram 1.0.7</a>
 
 ⭕️<b>Owner:</b> 👉 <a href='https://t.me/ABHI_VILAN</a>"""
-☞︎︎︎<b>Sᴜᴘᴘᴏʀᴛ :</b> <a href='https://t.me/dengerousbots</a>
