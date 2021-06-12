@@ -21,4 +21,4 @@ For more click help....</b>"""
 
 ⭕️<b>Library :</b> <a href='https://docs.pyrogram.org/'>Pyrogram 1.0.7</a>
 
-⭕️<b>MY OWNER:</b> <a href=@ABHI_VILAN</a>"""
+⭕️<b>MY GOD:</b> 👉 <a href='https://t.me/abhi_vilan'>OWNER</a>"""
