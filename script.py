@@ -21,4 +21,4 @@ For more click help....</b>"""
 
 ⭕️<b>Library :</b> <a href='https://docs.pyrogram.org/'>Pyrogram 1.0.7</a>
 
-⭕️<b>Owner:</b> <a href='https://t.me/ABHI_VILAN/'>MR UNKNWON</a>"""
+⭕️<b>MY OWNER:</b> 🤫 <a href='https://t.me/ABHI_VILAN>MR UNKNWON</a>"""
